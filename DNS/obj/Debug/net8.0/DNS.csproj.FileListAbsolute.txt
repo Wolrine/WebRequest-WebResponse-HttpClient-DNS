@@ -1,0 +1,14 @@
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\DNS\bin\Debug\net8.0\DNS.exe
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\DNS\bin\Debug\net8.0\DNS.deps.json
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\DNS\bin\Debug\net8.0\DNS.runtimeconfig.json
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\DNS\bin\Debug\net8.0\DNS.dll
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\DNS\bin\Debug\net8.0\DNS.pdb
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\DNS\obj\Debug\net8.0\DNS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\DNS\obj\Debug\net8.0\DNS.AssemblyInfoInputs.cache
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\DNS\obj\Debug\net8.0\DNS.AssemblyInfo.cs
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\DNS\obj\Debug\net8.0\DNS.csproj.CoreCompileInputs.cache
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\DNS\obj\Debug\net8.0\DNS.dll
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\DNS\obj\Debug\net8.0\refint\DNS.dll
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\DNS\obj\Debug\net8.0\DNS.pdb
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\DNS\obj\Debug\net8.0\DNS.genruntimeconfig.cache
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\DNS\obj\Debug\net8.0\ref\DNS.dll

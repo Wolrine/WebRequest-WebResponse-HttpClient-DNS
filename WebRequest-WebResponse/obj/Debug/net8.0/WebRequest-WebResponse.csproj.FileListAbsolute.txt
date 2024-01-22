@@ -1,0 +1,14 @@
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\WebRequest-WebResponse\bin\Debug\net8.0\WebRequest-WebResponse.exe
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\WebRequest-WebResponse\bin\Debug\net8.0\WebRequest-WebResponse.deps.json
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\WebRequest-WebResponse\bin\Debug\net8.0\WebRequest-WebResponse.runtimeconfig.json
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\WebRequest-WebResponse\bin\Debug\net8.0\WebRequest-WebResponse.dll
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\WebRequest-WebResponse\bin\Debug\net8.0\WebRequest-WebResponse.pdb
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\WebRequest-WebResponse\obj\Debug\net8.0\WebRequest-WebResponse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\WebRequest-WebResponse\obj\Debug\net8.0\WebRequest-WebResponse.AssemblyInfoInputs.cache
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\WebRequest-WebResponse\obj\Debug\net8.0\WebRequest-WebResponse.AssemblyInfo.cs
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\WebRequest-WebResponse\obj\Debug\net8.0\WebRequest-WebResponse.csproj.CoreCompileInputs.cache
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\WebRequest-WebResponse\obj\Debug\net8.0\WebRequest-WebResponse.dll
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\WebRequest-WebResponse\obj\Debug\net8.0\refint\WebRequest-WebResponse.dll
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\WebRequest-WebResponse\obj\Debug\net8.0\WebRequest-WebResponse.pdb
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\WebRequest-WebResponse\obj\Debug\net8.0\WebRequest-WebResponse.genruntimeconfig.cache
+D:\Work Space\C#\source\repos\WebRequest-WebResponse, HttpClient 1, HttpClient 2, DNS\WebRequest-WebResponse\obj\Debug\net8.0\ref\WebRequest-WebResponse.dll
